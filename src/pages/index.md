@@ -1,12 +1,12 @@
 ---
 templateKey: index-page
-title: Jagannadh 
+title: Of the many imprisonments possible in the world
 image: /img/home-jumbotron.jpg
-heading: Of the many imprisonments possin=ble in the world
+heading: Of the many imprisonments possible in the world
 subheading: one of the worst must be to be inarticulate-
             to be unable to tell another person what you really feel
 mainpitch:
-  title: Why Kaldi
+  title: 
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
