@@ -1,21 +1,44 @@
 ---
 templateKey: index-page
 title: Of the many imprisonments possible in the world
-image: /img/home-jumbotron.jpg
+image: /img/dsc_0302-2-.jpg
 heading: About me
-subheading: one of the worst must be to be inarticulate-
-            to be unable to tell another person what you really feel
+subheading: one of the worst must be to be inarticulate- to be unable to tell
+  another person what you really feel
 mainpitch:
-  title: 
-  description: >
-    
-description: >-
-  
+  title: " Doctoral Student"
+  description: "Currently working towards my doctoral studies in the field of
+    Mechanical engineering at Nano composites and Mechanics (NCM) lab at
+    University of New Brunswick, Fredericton. My research focus is on developing
+    nano composite (ceramic-metallic) powders tailored for high pressure cold
+    spray (HPCS) by applying statistical principles to optimize research design
+    followed by deposition using HPCS. The objective of NCM lab is to create
+    high-strength HPCS coatings and additive manufacturing (AM) components
+    driven by the need for industry relevant solutions.   I graduated from
+    Indian Institute of Technology Kharagpur (IIT KGP) with bachelors and
+    masters in Metallurgical and Materials Engineering. As a Materials engineer,
+    my primary area of interest and focus is understanding the role and
+    importance of materials in the world we live in.  With an interest in
+    concurrent technologies and desire to be a part of an ambitious research
+    driven environment, I have taken up my doctoral studies at UNB.  My research
+    interests include High Pressure Cold Spray, Powder Bed Fusion (PBF) based AM
+    technologies, Alloy Design, Statistical modelling & analysis and Material
+    characterization. I am also currently working as a teaching assistant at
+    Manufacturing process laboratory. "
+description: " I am driven by my curiosity to understand the world we live in.
+  My fascination with the universe manifests in the form of my interest in
+  science, love for the art and curiosity of the human history and biological
+  evolution. I like to read about history, biology, physics, philosophy and
+  anything that broadens my understanding of the universe. However, I am also
+  enthralled and captured by the abstract nature of the universe manifested in
+  the form of music/vibrations. I appreciate classical and progressive rock
+  music and forms of visual art."
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        Hi there, My name is Jagannadh Sripada. I am a doctoral student, philomath, fitness and material enthusiast.
+        Hi there, My name is Jagannadh Sripada. I am a doctoral student,
+        philomath, fitness and material enthusiast.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
