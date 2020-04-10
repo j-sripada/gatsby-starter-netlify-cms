@@ -1,9 +1,10 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Jagannadh 
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Of the many imprisonments possin=ble in the world
+subheading: one of the worst must be to be inarticulate-
+            to be unable to tell another person what you really feel
 mainpitch:
   title: Why Kaldi
   description: >
