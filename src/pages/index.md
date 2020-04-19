@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Of the many imprisonments possible in the world
-image: /img/dsc_0302-2-.jpg
+image: /img/led-zeppelin-3.jpg
 heading: About me
 subheading: one of the worst must be to be inarticulate- to be unable to tell
   another person what you really feel
@@ -59,12 +59,10 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: About me
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Hi there, My name is Jagannadh Sripada. I am a doctoral student, philomath,
+    fitness and material enthusiast.
 main:
   heading: Great coffee with no compromises
   description: >
